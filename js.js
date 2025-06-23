@@ -32,4 +32,3 @@ btndisminuir.addEventListener("click", function () {
         acttotal();
     }
 });
-
